@@ -31,7 +31,7 @@ body a {
   font-weight: 500;
   letter-spacing: 0.05rem;
   margin: 40px 20px;
-  color: #000000;
+  color: #050505;
 }
 
 /* separate portfolio page */
@@ -169,7 +169,7 @@ nav .main-menu .nav_logo {
   }
   nav .main-menu .menu-toggle:hover,
   nav .main-menu .menu-toggle:focus {
-    color: #FEB49C;
+    color: #EAC85D;
   }
   nav .main-menu .nav_logo {
     position: absolute;
